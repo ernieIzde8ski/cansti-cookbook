@@ -1,0 +1,4 @@
+.doit.db
+*.pdf
+!dist/*.pdf
+__pycache__
